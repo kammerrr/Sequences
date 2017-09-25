@@ -13,10 +13,10 @@ is different from:
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
          their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # TO DO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ----------------------------------------------------------------------
-# TODO: 2. READ the program below and RUN it.
+# TO DO: 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
 #   and you feel that you understand:
